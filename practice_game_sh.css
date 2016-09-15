@@ -1,0 +1,24 @@
+#main_frame{
+	max-width:50em;
+	height:30em;
+	background-color:lightblue;
+	
+}
+#menu{
+	position:absolute;
+	font-size:90px;
+	background-color:rgba(240,45,15,1);
+	color:blue;
+	top:0px;
+	left:0px;
+	width:807px;
+	height:292px;
+	text-align:center;
+	padding-top:195px;
+	z-index:15;
+}
+#player{
+	position:absolute;
+	top:220px;
+	left:750px;
+}
