@@ -1,0 +1,39 @@
+#main_frame{
+	position:fixed;
+	top:0;
+	right:0;
+	left:0;
+	bottom:0;
+	z-index:0;
+	
+	background-color:lightblue;
+	
+}
+#menu{
+	position:fixed;
+	font-size:90px;
+	background-color:rgba(240,45,15,1);
+	color:blue;
+	top:0;
+	right:0;
+	left:0;
+	bottom:0;
+
+	
+	text-align:center;
+	/*padding-top:50;*/
+	z-index:2;
+	/*margin-left:8px;
+	margin-top:8px;*/
+}
+#menu_letters{
+	position:absolute;
+	top:40%;
+	left:30%;
+}
+#player{
+	position:absolute;
+	top:45%;
+	left:80%;
+	z-index:1;
+}
